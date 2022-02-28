@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+/* FONTS */
+$font-main: 'Roboto', sans-serif;
+
+/* FONT WEIGHT */
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-semiBold: 500;
+$font-weight-bold: 700;
+$font-weight-extraBold: 900;
+
+/* FONT VERTICAL SEPARATION */
+$line-height-regular: 1.5;
+
+/** FONT SIZE */
+$font-size-xs: 12px;
+$font-size-s: 14px;
+$font-size-ms: 16px;
+$font-size-m: 18px;
+$font-size-ml: 20px;
+$font-size-l: 24px;
+$font-size-xl: 28px;
+$font-size-xxl: 32px;
+$font-size-xxxl: 48px;
+
+/* SPACING */
+$spacing-xxxs: 2px;
+$spacing-xxs: 4px;
+$spacing-xs: 8px;
+$spacing-s: 12px;
+$spacing-sm: 16px;
+$spacing-m: 20px;
+$spacing-ml: 24px;
+$spacing-l: 28px;
+$spacing-xl: 32px;
+$spacing-xxl: 36px;
+$spacing-xxxl: 40px;
+
+/** BORDERS **/
+$generic-border: 2px solid #e0e0e0;
+
+/** COLORS */
+$color-marvel: #eb2328;
+$color-black: #000000;
+$color-grey-1: #444444;
+$color-grey-2: #666666;
+$color-grey-5: #f2f2f2;
+$color-white: #ffffff;
+$color-background: #e5e5e5;
