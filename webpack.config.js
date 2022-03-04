@@ -7,8 +7,11 @@ const Dotenv = require('dotenv-webpack');
 
 const ABSOLUTE_PATHS = {
 	components: path.resolve(__dirname, 'src/components/'),
+	context: path.resolve(__dirname, 'src/context/'),
 	api: path.resolve(__dirname, 'src/api/'),
 	constants: path.resolve(__dirname, 'src/constants/'),
+	types: path.resolve(__dirname, 'src/types/'),
+	assets: path.resolve(__dirname, 'src/assets/'),
 	styles: path.resolve(__dirname, 'src/styles/'),
 };
 
